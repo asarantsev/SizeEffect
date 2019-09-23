@@ -5,4 +5,4 @@ Files 'small.py', 'mid.py', 'mega.py' are for comparison of Vanguard ETFs.
 File 'BayesAlphaBeta.py' is for subsection 3.4.
 File 'schwab-code.py' is for Charles Schwab funds, subsection 2.4. 
 It can be used also for Invesco international ETFs, subsection 2.5.
-File 'factors2.py' is for ETF comparison.
+File 'factors.py' is for individual stocks and randomly generated portfolios.
